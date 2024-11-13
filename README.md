@@ -1,8 +1,3 @@
-# Airbnb-NYC-2019-Data-Analysis-Project
-<div style="text-align: center;">
-    <h1>Airbnb NYC 2019 Data Analysis Project</h1>
-</div>
-
 ## Project Introduction
 
 Since 2008, Airbnb has offered travelers and hosts more travel possibilities, presenting a more unique and personalized way to experience the world. This dataset describes the activity and metrics of Airbnb listings in New York City (NYC) for the year 2019.
