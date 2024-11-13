@@ -1,3 +1,4 @@
+
 ## Project Introduction
 
 Since 2008, Airbnb has offered travelers and hosts more travel possibilities, presenting a more unique and personalized way to experience the world. This dataset describes the activity and metrics of Airbnb listings in New York City (NYC) for the year 2019.
@@ -17,3 +18,15 @@ This open dataset is part of Airbnb, and the original source can be found at thi
 - Which hosts are the busiest, and why?
 - Is there a noticeable difference in traffic across different areas? What could be the possible reasons?
 
+## Data Import
+
+First, we need to import the data:
+
+```python
+import pandas as pd
+
+# Read the CSV file
+df = pd.read_csv('./AB_NYC_2019.CSV')
+
+# Display the first few rows of the data
+print(df.head())
